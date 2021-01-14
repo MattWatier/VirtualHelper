@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-01-14T11:36:06-05:00</updated><id>/feed.xml</id><title type="html">Icon Dictionary</title><subtitle>This is the dictionary of Icons used at the American College of Cardiology.  This document is consitantly updated and is a reference for the UI and Design Teams that work on ACC properties. </subtitle><entry><title type="html">UI Icons</title><link href="/icons/2021/01/13/ui.html" rel="alternate" type="text/html" title="UI Icons" /><published>2021-01-13T10:14:44-05:00</published><updated>2021-01-13T10:14:44-05:00</updated><id>/icons/2021/01/13/ui</id><content type="html" xml:base="/icons/2021/01/13/ui.html">&lt;div class=&quot;ul_none&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-bookmark&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/bookmark&quot;&gt;
+      Bookmark&lt;/a&gt;
+      &lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-bookmark&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    save to library&lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-bookmark&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-minus&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/minus&quot;&gt;
+      Collapse&lt;/a&gt;
+      &lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-minus&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;In combination with the &quot;expand&quot; these icons toggle to reflect the opposite of state of the content.&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    minimize&lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-minus&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-award&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/award&quot;&gt;
+      Credit&lt;/a&gt;
+      &lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-award&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;When denoting the types of education credits or certificates that are attached to a content item. &lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    certificate&lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-award&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-thumbs-down&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/thumbs-down&quot;&gt;
+      Down Voted&lt;/a&gt;
+      &lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-thumbs-down&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    Unliked, Disapproved&lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-thumbs-down&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-users-medical&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/users-medical&quot;&gt;
+      Editor in chief/Editorial Board&lt;/a&gt;
+      &lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-users-medical&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-users-medical&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-thumbs-up&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/thumbs-up&quot;&gt;
+      Editors Pick&lt;/a&gt;
+      &lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-thumbs-up&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    Approved, Liked, Up Voted&lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-thumbs-up&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-calendar&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/calendar&quot;&gt;
+      Event, Date&lt;/a&gt;
+      &lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-calendar&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    calendar&lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-calendar&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-star&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/star&quot;&gt;
+      Featured&lt;/a&gt;
+      &lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-star&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    stared&lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-star&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-check-circle&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/check-circle&quot;&gt;
+      registered&lt;/a&gt;
+      &lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-check-circle&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    purchased&lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-check-circle&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-hourglass-half&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/hourglass-half&quot;&gt;
+      Time&lt;/a&gt;
+      &lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-hourglass-half&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;When an content object specifically only shows the time this icon is used.&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-hourglass-half&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-user&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/user&quot;&gt;
+      User&lt;/a&gt;
+      &lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-user&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    member&lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-user&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-photo-video&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/photo-video&quot;&gt;
+      Video&lt;/a&gt;
+      &lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-photo-video&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-photo-video&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+
+
+
+&lt;/div&gt;
+&lt;div class=&quot;ul_none&quot;&gt;
+&lt;h2&gt;Social Icons&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;fab c_primary  font_10 fa-fw  fa-facebook-square&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/facebook-square&quot;&gt;
+      Facebook&lt;/a&gt;
+      &lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-facebook-square&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;fab fa-facebook-square&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;fab c_primary  font_10 fa-fw  fa-instagram-square&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/instagram-square&quot;&gt;
+      Instagram&lt;/a&gt;
+      &lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-instagram-square&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;fab fa-instagram-square&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;fab c_primary  font_10 fa-fw  fa-linkedin&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/linkedin&quot;&gt;
+      LinkedIn&lt;/a&gt;
+      &lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-linkedin&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;fab fa-linkedin&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;fab c_primary  font_10 fa-fw  fa-twitter-square&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/twitter-square&quot;&gt;
+      Twitter&lt;/a&gt;
+      &lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-twitter-square&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;fab fa-twitter-square&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;/div&gt;</content><author><name></name></author><category term="icons" /><summary type="html">Bookmark class name:fa-bookmark synonymns save to library &amp;lt;i class=&amp;quot;far fa-bookmark&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Collapse class name:fa-minus In combination with the &quot;expand&quot; these icons toggle to reflect the opposite of state of the content. synonymns minimize &amp;lt;i class=&amp;quot;far fa-minus&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Credit class name:fa-award When denoting the types of education credits or certificates that are attached to a content item. synonymns certificate &amp;lt;i class=&amp;quot;far fa-award&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Down Voted class name:fa-thumbs-down synonymns Unliked, Disapproved &amp;lt;i class=&amp;quot;far fa-thumbs-down&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Editor in chief/Editorial Board class name:fa-users-medical synonymns &amp;lt;i class=&amp;quot;far fa-users-medical&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Editors Pick class name:fa-thumbs-up synonymns Approved, Liked, Up Voted &amp;lt;i class=&amp;quot;far fa-thumbs-up&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Event, Date class name:fa-calendar synonymns calendar &amp;lt;i class=&amp;quot;far fa-calendar&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Featured class name:fa-star synonymns stared &amp;lt;i class=&amp;quot;far fa-star&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; registered class name:fa-check-circle synonymns purchased &amp;lt;i class=&amp;quot;far fa-check-circle&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Time class name:fa-hourglass-half When an content object specifically only shows the time this icon is used. synonymns &amp;lt;i class=&amp;quot;far fa-hourglass-half&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; User class name:fa-user synonymns member &amp;lt;i class=&amp;quot;far fa-user&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Video class name:fa-photo-video synonymns &amp;lt;i class=&amp;quot;far fa-photo-video&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Social Icons Facebook class name:fa-facebook-square synonymns &amp;lt;i class=&amp;quot;fab fa-facebook-square&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Instagram class name:fa-instagram-square synonymns &amp;lt;i class=&amp;quot;fab fa-instagram-square&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; LinkedIn class name:fa-linkedin synonymns &amp;lt;i class=&amp;quot;fab fa-linkedin&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Twitter class name:fa-twitter-square synonymns &amp;lt;i class=&amp;quot;fab fa-twitter-square&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;</summary></entry><entry><title type="html">Action Icons</title><link href="/icons/2021/01/13/action.html" rel="alternate" type="text/html" title="Action Icons" /><published>2021-01-13T10:14:44-05:00</published><updated>2021-01-13T10:14:44-05:00</updated><id>/icons/2021/01/13/action</id><content type="html" xml:base="/icons/2021/01/13/action.html">&lt;div class=&quot;ul_none&quot;&gt;
+
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-plus&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/plus&quot;&gt;
+      Add, New
+      
+    &lt;/a&gt;&lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-plus&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;Used in buttons the plus icon is combined with the word &quot;Add&quot; plus the new item being added. For Exmple &quot;Add User&quot;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    new, another, expand&lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-plus&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-times&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/times&quot;&gt;
+      Remove, Cancel
+      
+    &lt;/a&gt;&lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-times&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;Used in buttons the times icon is combined in two ways either with &quot;Cancel&quot; or with the word &quot;remove or delete&quot; plus the item being removed. For Exmple &quot;Remove User&quot; &lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    Delete, Close&lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-times&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;/div&gt;</content><author><name></name></author><category term="icons" /><summary type="html">Add, New class name:fa-plus Used in buttons the plus icon is combined with the word &quot;Add&quot; plus the new item being added. For Exmple &quot;Add User&quot; synonymns new, another, expand &amp;lt;i class=&amp;quot;far fa-plus&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Remove, Cancel class name:fa-times Used in buttons the times icon is combined in two ways either with &quot;Cancel&quot; or with the word &quot;remove or delete&quot; plus the item being removed. For Exmple &quot;Remove User&quot; synonymns Delete, Close &amp;lt;i class=&amp;quot;far fa-times&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;</summary></entry><entry><title type="html">Content Icons</title><link href="/icons/2021/01/13/content.html" rel="alternate" type="text/html" title="Content Icons" /><published>2021-01-13T10:14:44-05:00</published><updated>2021-01-13T10:14:44-05:00</updated><id>/icons/2021/01/13/content</id><content type="html" xml:base="/icons/2021/01/13/content.html">&lt;div class=&quot;ul_none&quot;&gt;
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-file-signature&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/file-signature&quot;&gt;
+      Action Plan
+      
+    &lt;/a&gt;&lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-file-signature&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-file-signature&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-sitemap&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/sitemap&quot;&gt;
+      Decision Aid
+      
+    &lt;/a&gt;&lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-sitemap&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-sitemap&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-user-md-chat&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/user-md-chat&quot;&gt;
+      Discussion Guide
+      
+    &lt;/a&gt;&lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-user-md-chat&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-user-md-chat&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-calendar&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/calendar&quot;&gt;
+      Event, Date
+      
+    &lt;/a&gt;&lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-calendar&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    calendar&lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-calendar&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-ballot-check&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/ballot-check&quot;&gt;
+      Fact Sheet
+      
+    &lt;/a&gt;&lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-ballot-check&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-ballot-check&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-file-medical-alt&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/file-medical-alt&quot;&gt;
+      Generic Article
+      
+    &lt;/a&gt;&lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-file-medical-alt&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-file-medical-alt&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-book&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/book&quot;&gt;
+      Guideline
+      
+    &lt;/a&gt;&lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-book&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-book&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-file-chart-pie&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/file-chart-pie&quot;&gt;
+      Infographic
+      
+    &lt;/a&gt;&lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-file-chart-pie&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-file-chart-pie&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+
+
+
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-newspaper&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/newspaper&quot;&gt;
+      News Article
+      
+    &lt;/a&gt;&lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-newspaper&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-newspaper&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-address-card&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/address-card&quot;&gt;
+      Patient/Survivor Story
+      
+    &lt;/a&gt;&lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-address-card&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-address-card&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+
+
+
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-calculator&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/calculator&quot;&gt;
+      Risk Calculator
+      
+    &lt;/a&gt;&lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-calculator&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-calculator&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-photo-video&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/photo-video&quot;&gt;
+      Video
+      
+    &lt;/a&gt;&lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-photo-video&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-photo-video&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+
+
+  &lt;div class=&quot;flex m-b_5&quot;&gt;
+    &lt;div class=&quot;flex_none p-x_4 p_3&quot;&gt;
+      &lt;i class=&quot;far c_primary  font_10 fa-fw  fa-desktop-alt&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+     &lt;div class=&quot;br-l_2 br_black-1 br_solid p-l_4 flex_auto&quot;&gt;
+     &lt;a class=&quot;font_5&quot; href=&quot;https://fontawesome.com/icons/desktop-alt&quot;&gt;
+      Webinar
+      
+    &lt;/a&gt;&lt;span class=&quot;block font_0&quot;&gt;&lt;span class=&quot;font_regular p-r_3&quot;&gt;class name:&lt;/span&gt;&lt;span class=&quot;font_bold&quot;&gt;fa-desktop-alt&lt;/span&gt;&lt;/span&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;&lt;/p&gt;
+   &lt;p class=&quot;m-t_3&quot;&gt;
+    &lt;span class=&quot;block c_black_4 capitalize&quot;&gt;synonymns&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;pre&gt;&lt;code&gt;&amp;lt;i class=&amp;quot;far fa-desktop-alt&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;</content><author><name></name></author><category term="icons" /><summary type="html">Action Plan class name:fa-file-signature synonymns &amp;lt;i class=&amp;quot;far fa-file-signature&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Decision Aid class name:fa-sitemap synonymns &amp;lt;i class=&amp;quot;far fa-sitemap&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Discussion Guide class name:fa-user-md-chat synonymns &amp;lt;i class=&amp;quot;far fa-user-md-chat&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Event, Date class name:fa-calendar synonymns calendar &amp;lt;i class=&amp;quot;far fa-calendar&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Fact Sheet class name:fa-ballot-check synonymns &amp;lt;i class=&amp;quot;far fa-ballot-check&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Generic Article class name:fa-file-medical-alt synonymns &amp;lt;i class=&amp;quot;far fa-file-medical-alt&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Guideline class name:fa-book synonymns &amp;lt;i class=&amp;quot;far fa-book&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Infographic class name:fa-file-chart-pie synonymns &amp;lt;i class=&amp;quot;far fa-file-chart-pie&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; News Article class name:fa-newspaper synonymns &amp;lt;i class=&amp;quot;far fa-newspaper&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Patient/Survivor Story class name:fa-address-card synonymns &amp;lt;i class=&amp;quot;far fa-address-card&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Risk Calculator class name:fa-calculator synonymns &amp;lt;i class=&amp;quot;far fa-calculator&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Video class name:fa-photo-video synonymns &amp;lt;i class=&amp;quot;far fa-photo-video&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt; Webinar class name:fa-desktop-alt synonymns &amp;lt;i class=&amp;quot;far fa-desktop-alt&amp;quot;&amp;gt;&amp;lt;&amp;frasl;i&amp;gt;</summary></entry></feed>
