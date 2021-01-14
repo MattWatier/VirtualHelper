@@ -1,9 +1,10 @@
 ---
-layout: post
 title:  "UI Icons"
 date:   2021-01-13 10:14:44 -0500
 categories: icons
 ---
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-9ZfPnbegQSumzaE7mks2IYgHoayLtuto3AS6ieArECeaR8nCfliJVuLh/GaQ1gyM" crossorigin="anonymous">
+<link rel="stylesheet" href="{{ 'assets/acc_boot_combo.css' | relative_url }}">
 <div class="ul_none">
 {% for icons in site.data.IconDictionaryData %}
 {% assign categoryArray = icons.category | split:"," %}

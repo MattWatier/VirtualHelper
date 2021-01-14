@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Action Icons"
 date:   2021-01-13 10:14:44 -0500
 categories: icons

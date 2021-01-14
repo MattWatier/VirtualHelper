@@ -4,8 +4,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-9ZfPnbegQSumzaE7mks2IYgHoayLtuto3AS6ieArECeaR8nCfliJVuLh/GaQ1gyM" crossorigin="anonymous">
   {%- seo -%}
-  <link rel="stylesheet" href="{{ 'assets/acc_boot_combo.css' | relative_url }}">
-  <link rel="stylesheet" href="{{ 'assets/main.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ 'assets/css/acc_boot_combo.css'| relative_url  }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | append: site.github.build_revision | relative_url }}">
+  <!--[if lt IE 9]>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <![endif]-->
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
