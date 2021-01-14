@@ -3,8 +3,6 @@ title:  "UI Icons"
 date:   2021-01-13 10:14:44 -0500
 categories: icons
 ---
-<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-9ZfPnbegQSumzaE7mks2IYgHoayLtuto3AS6ieArECeaR8nCfliJVuLh/GaQ1gyM" crossorigin="anonymous">
-<link rel="stylesheet" href="{{ 'assets/acc_boot_combo.css' | relative_url }}">
 <div class="ul_none">
 {% for icons in site.data.IconDictionaryData %}
 {% assign categoryArray = icons.category | split:"," %}
@@ -22,7 +20,7 @@ categories: icons
    <p class="m-t_3">
     <span class="block c_black_4 capitalize">synonymns</span>
     {{icons.synonyms}}</p>
-    <pre><code>&lt;i class=&quot;far fa-{{ icons.class }}&quot;&gt;&lt;&frasl;i&gt;</code></pre>
+    <pre class="br_1 br_solid br_black-3 bg_black-1 p_3 m-t_3 m-b_5"><code class="force-select">&lt;i class=&quot;far fa-{{ icons.class }}&quot;&gt;&lt;&frasl;i&gt;</code></pre>
     </div>
   </div>
 {% endif %}{% endif %}
@@ -46,7 +44,7 @@ categories: icons
    <p class="m-t_3">
     <span class="block c_black_4 capitalize">synonymns</span>
     {{icons.synonyms}}</p>
-    <pre><code>&lt;i class=&quot;fab fa-{{ icons.class }}&quot;&gt;&lt;&frasl;i&gt;</code></pre>
+        <pre class="br_1 br_solid br_black-3 bg_black-1 p_3 m-t_3 m-b_5"><code class="force-select">&lt;i class=&quot;fab fa-{{ icons.class }}&quot;&gt;&lt;&frasl;i&gt;</code></pre>
     </div>
   </div>
 {% endif %}{% endif %}
