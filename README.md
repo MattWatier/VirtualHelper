@@ -1,1 +1,2 @@
-IconDictionary
+Virtual Conference Helper
+
