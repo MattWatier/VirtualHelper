@@ -34,7 +34,8 @@
     {%- endif -%}
 
     <footer class="">
-      <strong> last updated: {{ site.data.updateSite.updatedDate }}</strong>
+      {%- assign update_date = site.data.updateSite.updatedDate -%}
+      <strong> last updated: {{ update_date | date: date_format }}</strong>
       <p><small>
         This project is maintained by ACC's Digital Stradegy Team.<br/>
         Hosted on GitHub Pages</small></p>
