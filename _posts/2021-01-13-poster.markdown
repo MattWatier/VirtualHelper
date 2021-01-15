@@ -4,9 +4,7 @@ date:   2021-01-15 10:14:44 -0500
 categories: icons
 ---
 <div class="ul_none">
-{% for icons in site.data.IconDictionaryData %}
-{% assign categoryArray = icons.category | split:"," %}
-{% if categoryArray contains "action" %}
+{% for poster in site.data.PosterList %}
   <article  class="c_black m-b_4 m-t_5 m-t_0:md m-t_2:lg ">
     <div class="br_1 br_radius br_solid br_black-2 flex flex_column flex_row:md font_ui h:bg_black-2 m-x_n2 relative">
         <div class="flex_none justify_center p-l_4:md p-y_3" style="width:4rem;">
@@ -17,17 +15,15 @@ categories: icons
             </div>
         </div>
         <div class="flex_auto [ c_primary-n4  font_0 font_1:md font_copy font_regular lh_2 ][  p-x_3 p-b_0:lg p-b_3 p-l_4:lg p-l_4:md ]" >
-            <div class="m-t_2 p_3 p-y_2"><a class="expanded-click-area h:undecorated" target="_blank" href="https://virtual.acc.org/docs/default-source/filesah20/journal/10-dias_exercise-training-for-patients-with-hypertrophic-cardiomyopathy.pdf?sfvrsn=fa018194_2" sfref="[documents%7COpenAccessDataProvider]c9ef138c-5f43-4524-8a51-d06907c828dc">Exercise Training for Patients With Hypertrophic Cardio myopathy: JACC Review Topic of the Week </a>
+            <div class="m-t_2 p_3 p-y_2"><a class="expanded-click-area h:undecorated" target="_blank" href="{{poster.videoLink}}" >{{poster.title}}</a>
             </div>
         </div>
     </div>
     <div class="c_black flex flex_wrap font_n2 justify_between m-t_2 p-t_2">
         <div class="flex_shrink block font_bold text_left p-r_3 m-r_3 br-r_1 br_black-3 br_solid">
-            <a href="#modal-disclosures" class="block h:underline uppercase" data-remote="https://disclosures.acc.org/Public/AnnualMeetingAppConsol?pid=14617" data-toggle="modal" data-target="#modal-disclosures">Article</a>
+<a href="{{  poster.pdflink}}" class="block h:underline uppercase" target="_blank"><i class="far fa-paperclip"></i> Attachments</a>
         </div>
-        <div class="flex_shrink block font_italic  text_left">
-            <span class="block uppercase" >Published: June 15, 2020</span>
-        </div>
+
         <div class="flex_grow uppercase text_right">
             <ul class="m-t_n2 ul_none">
                 <li class="inline-block lh_0 p-l_3">
@@ -40,6 +36,5 @@ categories: icons
         </div>
     </div>
 </article>
-  {% endif %}
 {% endfor %}
 </div>
