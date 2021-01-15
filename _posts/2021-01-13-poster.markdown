@@ -4,7 +4,7 @@ date:   2021-01-15 10:14:44 -0500
 categories: icons
 ---
 <div class="ul_none">
-{% for poster in site.data.PosterList %}
+{% for poster in site.data.PosterList.csv %}
   <article  class="c_black m-b_4 m-t_5 m-t_0:md m-t_2:lg ">
     <div class="br_1 br_radius br_solid br_black-2 flex flex_column flex_row:md font_ui h:bg_black-2 m-x_n2 relative">
         <div class="flex_none justify_center p-l_4:md p-y_3" style="width:4rem;">
