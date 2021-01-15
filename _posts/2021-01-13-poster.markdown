@@ -15,7 +15,8 @@ categories: icons
             </div>
         </div>
         <div class="flex_auto [ c_primary-n4  font_0 font_1:md font_copy font_regular lh_2 ][  p-x_3 p-b_0:lg p-b_3 p-l_4:lg p-l_4:md ]" >
-            <div class="m-t_2 p_3 p-y_2"><a class="expanded-click-area h:undecorated" target="_blank" href="{{poster.videoLink}}" >{{poster.title}}</a>
+            <div class="m-t_2 p_3 p-y_2"><a class="expanded-click-area h:undecorated" target="_blank" href="
+              {{poster.videolink}}" >{{poster.title}}</a>
             </div>
         </div>
     </div>
